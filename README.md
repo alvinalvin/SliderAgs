@@ -31,12 +31,13 @@
 
 <p>compatible con joomla 5 complemento b/c</p>
 
-<h3> Change Log</h3>
+<h2> Change Log</h2>
 
-<h4>Version [1.0.0] - 2024-08-29</h4>
+<h2>Version [1.0.0] - 2024-08-29</h2>
+
 
 <ul>
-<li><b>[agregado]</b>primera versión para joomla 
+<li><b>[agregado]</b>primera versión para joomla.
 </li>
 </ul>
 
