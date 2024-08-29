@@ -6,4 +6,8 @@
   <li>0-ninguno</li>
   <li>1-desvanecimiento</li>
   <li>2-deslice hacia arriba</li>
+  <li>3-deslice hacía la derecha</li>
+  <li>4-deslice hacía abajo</li>
+  <li>5-deslice hacia la izquierda</li>
+
 </ul>
