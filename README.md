@@ -25,3 +25,22 @@
   
 
 </ul>
+
+
+<h2>Compatibilidad  </h2>
+
+<p>compatible con joomla 5 complemento b/c</p>
+
+<h3> Change Log</h3>
+
+<h4>Version [1.0.0] - 2024-08-29</h4>
+
+<ul>
+<li><b>[agregado]</b>primera versión para joomla 
+</li>
+</ul>
+
+
+<h2>Licencia y derecho de autor </h2>
+ 
+<p>este módulo es software libre bajo la licencia GNU LESSER GENERAL PUBLIC license. Copyright (C) 2024 Alvin Gil Saldañatodos los derechos  reservados .</p>
