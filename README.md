@@ -5,5 +5,5 @@
 <ul>
   <li>0-ninguno</li>
   <li>1-desvanecimiento</li>
-  <li>2-Ignacio</li>
+  <li>2-deslice hacia arriba</li>
 </ul>
