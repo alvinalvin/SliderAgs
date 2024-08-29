@@ -5,7 +5,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/release date-august-blue">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/MODULO-8A2BE2">
+<img alt="Static Badge" src="https://img.shields.io/badge/modulo-8A2BE2">
 
 
 </div>
