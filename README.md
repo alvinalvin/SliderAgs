@@ -2,3 +2,8 @@
 <p>SliderAgs es un modulo para joomla a que convierte un grupo de imágenes en un control deslizante/presentación de diapositivas básico con soporte para 17 animaciones de transición integradas y efectos de suavizado personalizados.<p/>
 
 <h2>Efectos disponibles</h2>
+<ol>
+  <li>J</li>
+  <li>Carmen</li>
+  <li>Ignacio</li>
+</ol>
