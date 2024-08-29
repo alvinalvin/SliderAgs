@@ -3,7 +3,7 @@
 
 <h2>Efectos disponibles</h2>
 <ul>
-  <li>J</li>
-  <li>Carmen</li>
-  <li>Ignacio</li>
+  <li>0-ninguno</li>
+  <li>1-desvanecimiento</li>
+  <li>2-Ignacio</li>
 </ul>
